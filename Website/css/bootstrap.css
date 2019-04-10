@@ -6754,4 +6754,7 @@ button.close {
     display: none !important;
   }
 }
+.ending {
+ border-top-style: groove;
+}
 /*# sourceMappingURL=bootstrap.css.map */

@@ -1,0 +1,27 @@
+
+.backgroundlanding2 {
+    background: url('../pics/landing2.jpg') no-repeat center fixed;
+    color:#fff;
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+}
+#lightpanel {
+    background-color: #f9f9f9;
+    color: black;
+    font-family: 'Open Sans Condensed', sans-serif;
+    width: 100%;
+    box-shadow: 5px 5px 15px black;
+    margin-top: 30vh;
+    padding: 2em 1em;
+}
+#headjumbo {
+	background: url('../pics/landing1.jpg') no-repeat center center fixed;
+    color:#fff;
+    background-size: cover;
+    height: 130vh;
+}
+.jumbotron {
+    margin-bottom: 0px;
+    height: 300px;
+}
