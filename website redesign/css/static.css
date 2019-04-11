@@ -10,6 +10,12 @@ body {
 .navbar {
     color: #FFFFFF
 }
+.backgroundclosingheader {
+    background: url('../pics/closingheader.png') no-repeat center fixed;
+    color:#fff;
+    background-size:cover;
+    height: 10vh;
+}
 .backgroundother1 {
     background: url('../pics/other1.png') no-repeat center fixed;
     color:#fff;
@@ -41,7 +47,7 @@ body {
     border-top-style: solid;
     position: absolute;
     bottom: 0;
-    right: 100;
+    right: 0;
 }
 .section {
     background-color: rgb(30, 30, 30);
