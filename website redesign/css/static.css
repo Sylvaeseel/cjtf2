@@ -11,19 +11,19 @@ body {
     color: #FFFFFF
 }
 .backgroundother1 {
-    background: url('../pics/other1.jpg') no-repeat center fixed;
+    background: url('../pics/other1.png') no-repeat center fixed;
     color:#fff;
     background-size:cover;
     height: 100vh;
 }
 .backgroundother2 {
-    background: url('../pics/other2.jpg') no-repeat center fixed;
+    background: url('../pics/other2.png') no-repeat center fixed;
     color:#fff;
     background-size:cover;
-    height: 100vh;
+    height: 180vh;
 }
 .backgroundother3 {
-    background: url('../pics/other3.jpg') no-repeat center fixed;
+    background: url('../pics/other3.png') no-repeat center fixed;
     color:#fff;
     background-size:cover;
     height: 100vh;
@@ -71,4 +71,15 @@ a:hover {
     margin-left: auto;
     margin-right: auto;
     max-width: 800px;
+}
+.field {
+	color: #FFFB00;
+}
+.info {
+    background-color: transparent;
+    text-decoration: underline;
+}
+hr {
+    border-top-style: solid;
+    color: #FFFFFF;
 }
