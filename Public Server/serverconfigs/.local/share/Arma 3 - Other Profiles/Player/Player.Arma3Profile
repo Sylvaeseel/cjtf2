@@ -1,55 +1,60 @@
-version=1;
-blood=1;
-viewDistance=3800;
-preferredObjectViewDistance=3800;
-terrainGrid=12.5;
- 
+difficulty="CustomDifficulty";
 class DifficultyPresets
 {
-    class CustomDifficulty
-    {
-        class Options
-        {
-             // Simulation
-             reducedDamage = 0; // Reduced damage
-
-             // Situational awareness
-             groupIndicators = 0; // Group indicators (0 = never, 1 = limited distance, 2 = always)
-             friendlyTags = 0; // Friendly name tags (0 = never, 1 = limited distance, 2 = always)
-             enemyTags = 0; // Enemy name tags (0 = never, 1 = limited distance, 2 = always)
-             detectedMines = 0; // Detected mines (0 = never, 1 = limited distance, 2 = always)
-             commands = 0; // Commands (0 = never, 1 = fade out, 2 = always)
-             waypoints = 1; // Waypoints (0 = never, 1 = fade out, 2 = always)
-
-            // Personal awareness
-             weaponInfo = 1; // Weapon info (0 = never, 1 = fade out, 2 = always)
-             stanceIndicator = 1; // Stance indicator (0 = never, 1 = fade out, 2 = always)
-             staminaBar = 1; // Stamina bar
-             weaponCrosshair = 0; // Weapon crosshair
-             visionAid = 0; // Vision aid
-
-             // View
-             thirdPersonView = 1; // 3rd person view
-             cameraShake = 1; // Camera shake
-
-             // Multiplayer
-             scoreTable = 0; // Score table
-             deathMessages = 0; // Killed by
-             vonID = 1; // VON ID
-
-             // Misc
-             mapContent = 0; // Extended map content
-             autoReport = 0; // Automatic reporting
-              multipleSaves = 0; // Multiple saves
-        };
-
-        //aiLevelPreset is counted from 0 and can have following values: 0 (AI Level Low), 1 (AI Level Normal), 2 (AI Level High), 3 (AI Level Custom).
-        //When 3 (AI Level Custom) is chosen, values of skill and precision are stored to the class CustomAILevel.
-        aiLevelPreset=3;
-    };
-    class CustomAILevel
-    {
-        skillAI=0.85;
-        precisionAI=0.5;
-    };
+	class CustomDifficulty
+	{
+		class Options
+		{
+			autoReport=0;
+			cameraShake=1;
+			commands=2;
+			deathMessages=0;
+			detectedMines=0;
+			enemyTags=0;
+			friendlyTags=0;
+			groupIndicators=0;
+			mapContent=0;
+			mapContentEnemy=0;
+			mapContentFriendly=0;
+			mapContentMines=0;
+			mapContentPing=0;
+			multipleSaves=0;
+			reducedDamage=0;
+			scoreTable=1;
+			squadRadar=2;
+			staminaBar=2;
+			stanceIndicator=2;
+			tacticalPing=0;
+			thirdPersonView=1;
+			visionAid=0;
+			vonID=1;
+			waypoints=2;
+			weaponCrosshair=2;
+			weaponInfo=2;
+		};
+		description="Custom difficulty set by developer.";
+		displayName="Custom";
+		optionDescription="Custom difficulty set by the player.";
+		optionPicture="\A3\Ui_f\data\Logos\arma3_white_ca.paa";
+		aiLevelPreset=2;
+		levelAI="AILevelLow";
+	};
+	class CustomAILevel
+	{
+		skillAI=1;
+		precisionAI=0.13000001;
+	};
 };
+singleVoice=0;
+maxSamplesPlayed=96;
+battleyeLicense=1;
+sceneComplexity=1000000;
+shadowZDistance=0;
+viewDistance=1600;
+preferredObjectViewDistance=900;
+terrainGrid=30;
+volumeCD=10;
+volumeFX=10;
+volumeSpeech=10;
+volumeVoN=10;
+vonRecThreshold=0.029999999;
