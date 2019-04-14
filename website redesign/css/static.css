@@ -32,7 +32,7 @@ body {
     background: url('../pics/other3.png') no-repeat center fixed;
     color:#fff;
     background-size:cover;
-    height: 100vh;
+    height: 180vh;
 }
 .nav-screen .active {
     display: block;
