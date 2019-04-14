@@ -1,6 +1,6 @@
 
 .backgroundlanding2 {
-    background: url('../pics/landing2.jpg') no-repeat center fixed;
+    background: url('../pics/landing2.png') no-repeat center fixed;
     color:#fff;
     background-size: cover;
     height: 100vh;
@@ -16,7 +16,7 @@
     padding: 2em 1em;
 }
 #headjumbo {
-	background: url('../pics/landing1.jpg') no-repeat center center fixed;
+	background: url('../pics/landing1.png') no-repeat center center fixed;
     color:#fff;
     background-size: cover;
     height: 130vh;
