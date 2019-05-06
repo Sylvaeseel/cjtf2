@@ -1,0 +1,70 @@
+18:42:12 Game Port: 2302, Steam Query Port: 2303
+18:42:12 Host identity created.
+18:48:12 [Cpt] J. Downs uses modified data file
+18:48:12 Player [Cpt] J. Downs connecting.
+18:48:15 Player [Cpt] J. Downs connected (id=76561198044500463).
+18:49:12 Mission waketraining.wake read from bank.
+18:49:18 Roles assigned.
+18:49:18 Reading mission ...
+18:49:30 Mission read.
+18:50:06 Game started.
+19:08:51 Player [Cpt] J. Downs disconnected.
+19:21:58 [Cpt] J. Downs uses modified data file
+19:21:58 Player [Cpt] J. Downs connecting.
+19:22:01 Player [Cpt] J. Downs connected (id=76561198044500463).
+19:25:53 Admin logged in, player: [Cpt] J. Downs, playerUID: 76561198044500463, IP: 192.168.10.160:2304.
+19:25:57 Game restarted
+class Session
+{
+	mission="waketraining";
+	island="wake";
+	gameType="";
+	duration=2150.959;
+	class Player1
+	{
+		name="[Cpt] J. Downs";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=-1;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=-5;
+		killed=1;
+	};
+};
+17:26:36 Game Port: 2302, Steam Query Port: 2303
+17:26:36 Host identity created.
+17:29:02 [Cpt] J. Downs uses modified data file
+17:29:02 Player [Cpt] J. Downs connecting.
+17:29:05 Player [Cpt] J. Downs connected (id=76561198044500463).
+17:30:02 Mission Zeus%20Framework.WL_Rosche read from bank.
+17:30:15 Roles assigned.
+17:30:15 Reading mission ...
+17:30:39 Mission read.
+17:31:43 Game started.
+17:35:04 Player [Cpt] J. Downs disconnected.
+17:35:22 [Cpt] J. Downs uses modified data file
+17:35:22 Player [Cpt] J. Downs connecting.
+17:35:26 Player [Cpt] J. Downs connected (id=76561198044500463).
+17:35:49 Admin logged in, player: [Cpt] J. Downs, playerUID: 76561198044500463, IP: 192.168.10.160:2304.
+17:35:57 Game restarted
+class Session
+{
+	mission="Zeus Framework v1.0";
+	island="WL_Rosche";
+	gameType="";
+	duration=253.86201;
+	class Player1
+	{
+		name="[Cpt] J. Downs";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};

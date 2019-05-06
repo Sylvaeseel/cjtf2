@@ -1,5 +1,0 @@
-﻿2019-04-04 15:16:05.054334|INFO    |VirtualServer |1  |listening on 0.0.0.0:9987, [::]:9987
-2019-04-04 15:16:05.054727|WARNING |VirtualServer |1  |--------------------------------------------------------
-2019-04-04 15:16:05.054749|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
-2019-04-04 15:16:05.054764|WARNING |VirtualServer |1  |token=FlUna6BxsFL5r1vHIC1803aafKLB96NDxm558Hkj
-2019-04-04 15:16:05.054776|WARNING |VirtualServer |1  |--------------------------------------------------------
