@@ -68,3 +68,204 @@ class Session
 		killed=0;
 	};
 };
+22:09:44 Game Port: 2302, Steam Query Port: 2303
+22:09:44 Host identity created.
+16:11:52 Capt D.Santiago uses modified data file
+16:11:52 Player Capt D.Santiago connecting.
+16:11:53 Player Capt D.Santiago connected (id=76561198144926018).
+16:12:52 Mission WAKE%20TRAINING.wake read from bank.
+16:13:53 Roles assigned.
+16:13:53 Reading mission ...
+16:14:03 Mission read.
+16:14:49 Game started.
+16:23:22 Player Capt D.Santiago is losing connection
+16:23:27 Player Capt D.Santiago disconnected.
+16:33:34 Capt D.Santiago uses modified data file
+16:33:34 Player Capt D.Santiago connecting.
+16:33:36 Player Capt D.Santiago connected (id=76561198144926018).
+17:21:24 Player Capt D.Santiago disconnected.
+21:13:56 Capt D.Santiago uses modified data file
+21:13:56 Player Capt D.Santiago connecting.
+21:13:57 Player Capt D.Santiago connected (id=76561198144926018).
+21:15:14 Admin logged in, player: Capt D.Santiago, playerUID: 76561198144926018, IP: 10.246.209.202:2304.
+21:15:18 Game restarted
+class Session
+{
+	mission="WAKE%20TRAINING";
+	island="wake";
+	gameType="";
+	duration=18028.406;
+	class Player1
+	{
+		name="Capt D.Santiago";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:15:18 Roles assigned.
+21:15:18 Reading mission ...
+21:15:26 Mission read.
+21:17:27 Mission Zeus%20Framework.abramia read from bank.
+21:17:35 Roles assigned.
+21:17:35 Reading mission ...
+21:17:44 Mission read.
+21:18:24 Game started.
+21:22:29 [Cpt] J. Downs uses modified data file
+21:22:29 Player [Cpt] J. Downs connecting.
+21:22:32 Player [Cpt] J. Downs connected (id=76561198044500463).
+21:22:36 Admin logged out, player: Capt D.Santiago, playerUID: 76561198144926018, IP: 10.246.209.202:2304.
+21:23:28 Admin logged in, player: [Cpt] J. Downs, playerUID: 76561198044500463, IP: 192.168.10.160:2304.
+21:25:48 Game restarted
+class Session
+{
+	mission="Zeus Framework";
+	island="abramia";
+	gameType="";
+	duration=443.61203;
+	class Player1
+	{
+		name="[Cpt] J. Downs";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player2
+	{
+		name="Capt D.Santiago";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:25:51 Waiting for next game.
+21:25:59 Mission Zeus%20Framework.abramia read from bank.
+21:26:07 Roles assigned.
+21:26:07 Reading mission ...
+21:26:12 Mission read.
+21:26:20 Game started.
+21:32:56 Game restarted
+class Session
+{
+	mission="Zeus Framework";
+	island="abramia";
+	gameType="";
+	duration=395.68503;
+	class Player1
+	{
+		name="[Cpt] J. Downs";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player2
+	{
+		name="Capt D.Santiago";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
+21:32:58 Waiting for next game.
+21:33:01 Mission Zeus%20Framework.abramia read from bank.
+21:33:09 Player Capt D.Santiago disconnected.
+21:33:12 Capt D.Santiago uses modified data file
+21:33:12 Player Capt D.Santiago connecting.
+21:33:13 Player Capt D.Santiago connected (id=76561198144926018).
+21:33:30 Roles assigned.
+21:33:30 Reading mission ...
+21:33:34 Mission read.
+21:34:00 Voted admin logged in, player: Capt D.Santiago, playerUID: 76561198144926018, IP: 10.246.209.202:2304.
+21:34:00 Game started.
+21:39:51 [Capt] A. Black uses modified data file
+21:39:51 Player [Capt] A. Black connecting.
+21:39:54 Player [Capt] A. Black connected (id=76561198116188982).
+21:43:30 S. Cheese uses modified data file
+21:43:30 Player S. Cheese connecting.
+21:43:32 Player S. Cheese connected (id=76561198018715183).
+21:43:37 Player S. Cheese disconnected.
+21:46:28 [LCpl] S. Cheese uses modified data file
+21:46:28 Player [LCpl] S. Cheese connecting.
+21:46:31 Player [LCpl] S. Cheese connected (id=76561198018715183).
+21:49:22 Admin logged in, player: [Cpt] J. Downs, playerUID: 76561198044500463, IP: 192.168.10.160:2304.
+21:50:23 Game restarted
+class Session
+{
+	mission="Zeus Framework";
+	island="abramia";
+	gameType="";
+	duration=982.79602;
+	class Player1
+	{
+		name="[Capt] A. Black";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player2
+	{
+		name="[Cpt] J. Downs";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player3
+	{
+		name="[LCpl] S. Cheese";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+	class Player4
+	{
+		name="Capt D.Santiago";
+		killsInfantry=0;
+		killsSoft=0;
+		killsArmor=0;
+		killsAir=0;
+		killsPlayers=0;
+		customScore=0;
+		killsTotal=0;
+		killed=0;
+	};
+};
